@@ -1,7 +1,7 @@
 {
-  "name": "color-scheme",
+  "name": "@damrem/color-scheme",
   "version": "1.0.1",
-  "description": "Generate pleasant color schemes",
+  "description": "Generate pleasant color schemes. Fork of https://github.com/c0bra/color-scheme-js.git",
   "main": "lib/color-scheme.js",
   "types": "index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/c0bra/color-scheme-js.git"
+    "url": "https://github.com/damrem/color-scheme-js.git"
   },
   "bugs": {
     "url": "https://github.com/c0bra/color-scheme-js/issues"
